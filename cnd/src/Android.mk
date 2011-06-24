@@ -11,6 +11,7 @@ LOCAL_SRC_FILES:= \
         cnd_iproute2.cpp
 
 LOCAL_MODULE:= cnd
+LOCAL_MODULE_TAGS:=optional
 
 LOCAL_SHARED_LIBRARIES := \
         libutils \

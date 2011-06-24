@@ -8,6 +8,7 @@ LOCAL_SRC_FILES:= \
        CneSvc.cpp
 
 LOCAL_MODULE:= librefcne
+LOCAL_MODULE_TAGS:= optional
 
 LOCAL_SHARED_LIBRARIES := libcutils
 
